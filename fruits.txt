@@ -1,0 +1,39 @@
+lemon
+lime
+apple
+orange
+banana
+raisins
+pineapple
+mango
+peach
+coconut
+craisins
+pear
+date
+pomegranate
+watermelon
+grape
+rhubarb
+dried apricot
+kiwi
+medjool date
+grapefruit
+plum
+fig
+mandarin
+currant
+apricot
+canned pineapple
+prunes
+sultanas
+cantaloupe
+passion fruit
+nectarine
+dried fig
+chestnut
+kaffir lime leaves
+meyer lemon
+honeydew melon
+clementine
+dried fruit

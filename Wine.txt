@@ -1,0 +1,23 @@
+white wine
+red wine
+rum
+vodka
+beer
+orange liqueur
+bourbon
+cider
+tequila
+sherry
+brandy
+gin
+whisky
+bitters
+mirin
+champagne
+coffee liqueur
+vermouth
+irish cream
+amaretto
+cognac
+marsala wine
+sparkling wine
